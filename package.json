@@ -1,4 +1,7 @@
 {
     "schema_version" : "0.0.1",
-    "type" : "bepreset"
+    "type" : "bepreset",
+    "description": "An example preset for Panupat",
+    "thumbnail": "thumbnail.png",
+    "link": "https://github.com/mottosso/be-panupat"
 }
